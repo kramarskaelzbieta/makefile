@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hw_defs.h
+
+../include/hw_hello.h
+
+../include/hw_power.h
+
+/home/fanrell/Documents/xyz/src/hw_main.c
+hw_defs.h
+/home/fanrell/Documents/xyz/src/hw_defs.h
+hw_hello.h
+/home/fanrell/Documents/xyz/src/hw_hello.h
+hw_power.h
+/home/fanrell/Documents/xyz/src/hw_power.h
+

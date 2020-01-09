@@ -1,0 +1,8 @@
+/home/fanrell/Documents/xyz/bin/CMakeFiles/install/strip.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/install/local.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/hello.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/lib.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/edit_cache.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/rebuild_cache.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/list_install_components.dir
+/home/fanrell/Documents/xyz/bin/CMakeFiles/install.dir

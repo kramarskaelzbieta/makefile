@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/hello.dir/src/hw_main.c.o  -o hello liblib.a 
